@@ -1,9 +1,0 @@
-/mnt/storage_5tb/Проекты ОПД/contac-book/build/Desktop_Debug/CMakeFiles/contac-book.dir
-/mnt/storage_5tb/Проекты ОПД/contac-book/build/Desktop_Debug/CMakeFiles/edit_cache.dir
-/mnt/storage_5tb/Проекты ОПД/contac-book/build/Desktop_Debug/CMakeFiles/rebuild_cache.dir
-/mnt/storage_5tb/Проекты ОПД/contac-book/build/Desktop_Debug/CMakeFiles/list_install_components.dir
-/mnt/storage_5tb/Проекты ОПД/contac-book/build/Desktop_Debug/CMakeFiles/install.dir
-/mnt/storage_5tb/Проекты ОПД/contac-book/build/Desktop_Debug/CMakeFiles/install/local.dir
-/mnt/storage_5tb/Проекты ОПД/contac-book/build/Desktop_Debug/CMakeFiles/install/strip.dir
-/mnt/storage_5tb/Проекты ОПД/contac-book/build/Desktop_Debug/CMakeFiles/contac-book_autogen_timestamp_deps.dir
-/mnt/storage_5tb/Проекты ОПД/contac-book/build/Desktop_Debug/CMakeFiles/contac-book_autogen.dir
